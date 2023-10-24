@@ -1,4 +1,3 @@
-# streamlit, pandas 라이브러리 불러오기 
 import streamlit as st
 import pandas as pd
 
